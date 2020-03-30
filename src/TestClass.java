@@ -3,6 +3,7 @@ public class TestClass {
     private String name;
 
     public TestClass() {
+        //some comment from git hub
     }
 
     public int getId() {
