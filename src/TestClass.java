@@ -2,6 +2,9 @@ public class TestClass {
     private int id;
     private String name;
 
+    public TestClass() {
+    }
+
     public int getId() {
         return id;
     }
