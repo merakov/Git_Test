@@ -5,6 +5,7 @@ public class TestClass {
     public TestClass() {
         //some comment from git hub
         //some comment from idea
+        //last entry
     }
 
     public int getId() {
